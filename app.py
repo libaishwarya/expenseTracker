@@ -5,7 +5,7 @@ app = Flask(__name__)
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'PASSWORD',
+    'password': ' ',
     'database': 'expenseTracker'
 }
 
